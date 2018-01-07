@@ -88,3 +88,12 @@ When num_particles = 50, 100, 200, 500 respectively:
 :---------------------:|:---------------------:
 ![](img/200.png)       |![](img/500.png)
 
+
+As you can see clearly, as the number of particles increases, the runtime is getting bigger and the program runs slower.
+
+But to some degree, with more particles, you will be able to get a higher accuracy.
+
+## Summary
+Due to limited time, it would be great to have the following things:
+1. Organize the code a little better. Like use data_association() as a helper function or make it more general.
+2. Find a best solution of number of particles to achieve a great result
