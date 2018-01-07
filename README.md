@@ -77,7 +77,11 @@ The things the grading code is looking for are:
 
 2. **Performance**: your particle filter should complete execution within the time of 100 seconds.
 
+When num_particles = 50, 100, 200, 500 respectively:
 ![Num_particles = 50](img/50.png)
+![Num_particles = 100](img/100.png)
+![Num_particles = 200](img/200.png)
+![Num_particles = 500](img/500.png)
 
 
 
